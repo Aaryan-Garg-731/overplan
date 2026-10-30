@@ -1,0 +1,20 @@
+Cricsheet Match Data License
+=============================
+
+The match data files provided in this repository are obtained from Cricsheet (https://cricsheet.org/)
+and are made available under the Open Data Commons Attribution License (ODC-By v1.0).
+
+Full license text available at:
+https://opendatacommons.org/licenses/by/1-0/
+
+Attribution Notice:
+Data provided by Cricsheet (https://cricsheet.org/), licensed under the Open Data Commons Attribution License (ODC-By v1.0).
+Cricsheet provides ball-by-ball data for Men's and Women's Test matches, ODIs, and T20s.
+
+You are free:
+- To Share: To copy, distribute and use the database.
+- To Create: To produce works from the database.
+- To Adapt: To modify, transform and build upon the database.
+
+As long as you:
+- Attribute: You must attribute any public use of the database, or works produced from the database, in the manner specified in the license.

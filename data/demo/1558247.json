@@ -1,0 +1,1559 @@
+{
+  "meta": {
+    "data_version": "1.3.0",
+    "created": "2026-10-25",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Ilfov County",
+    "dates": [
+      "2026-10-16"
+    ],
+    "event": {
+      "name": "ECA Women's European Cup",
+      "match_number": 4
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 3035,
+    "missing": [
+      "player_of_match"
+    ],
+    "officials": {
+      "match_referees": [
+        "K Sukesh Prudhvi"
+      ],
+      "umpires": [
+        "Muhammad Zaka",
+        "R Satheesan"
+      ]
+    },
+    "outcome": {
+      "winner": "Austria",
+      "by": {
+        "wickets": 10
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "players": {
+      "Bulgaria": [
+        "M Abadjieva",
+        "V Nikolova",
+        "S Sarandeva",
+        "D Ruynekova",
+        "S Yordanova",
+        "G Ilarionova",
+        "K Srandeva",
+        "K Eftimova",
+        "N Tropolova",
+        "Danaya Ilieva",
+        "Deya Stefanova"
+      ],
+      "Austria": [
+        "P Sabu",
+        "AM Zepeda",
+        "V Poglitsch",
+        "SK Reddy",
+        "Ashi Chopla",
+        "A Nookala",
+        "S Bhardwaj",
+        "MPM Pathirannehelage",
+        "Isha Joshi",
+        "Florence Hira",
+        "H Goyal"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Nookala": "57922f7c",
+        "AM Zepeda": "c9f95a16",
+        "Ashi Chopla": "89d6902b",
+        "D Ruynekova": "c3890e1e",
+        "Danaya Ilieva": "0272042d",
+        "Deya Stefanova": "9328878b",
+        "Florence Hira": "2ceca8d3",
+        "G Ilarionova": "b56786e5",
+        "H Goyal": "263ca355",
+        "Isha Joshi": "f93bb0a4",
+        "K Eftimova": "3cd543df",
+        "K Srandeva": "38602b15",
+        "K Sukesh Prudhvi": "e3415097",
+        "M Abadjieva": "f37f1c61",
+        "MPM Pathirannehelage": "0c142594",
+        "Muhammad Zaka": "fecf70b8",
+        "N Tropolova": "55c9fffb",
+        "P Sabu": "a38da707",
+        "R Satheesan": "1125ebe4",
+        "S Bhardwaj": "83e9173e",
+        "S Sarandeva": "dacecca3",
+        "S Yordanova": "7a9de52f",
+        "SK Reddy": "3e1fbf05",
+        "V Nikolova": "078d1eb5",
+        "V Poglitsch": "e7351fbd"
+      },
+      "venues": {
+        "Moara Vlasiei Cricket Ground, Ilfov County": "8d94c440"
+      }
+    },
+    "season": "2026/27",
+    "team_type": "international",
+    "teams": [
+      "Bulgaria",
+      "Austria"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Bulgaria"
+    },
+    "venue": "Moara Vlasiei Cricket Ground, Ilfov County"
+  },
+  "innings": [
+    {
+      "team": "Bulgaria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "M Abadjieva",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "V Nikolova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "M Abadjieva",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "V Nikolova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "M Abadjieva",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "V Nikolova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "M Abadjieva",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "V Nikolova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "M Abadjieva",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "V Nikolova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "M Abadjieva",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "V Nikolova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "V Nikolova",
+              "bowler": "SK Reddy",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "V Nikolova",
+              "bowler": "SK Reddy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "V Nikolova",
+              "bowler": "SK Reddy",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "V Nikolova",
+              "bowler": "SK Reddy",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "V Nikolova",
+              "bowler": "SK Reddy",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "M Abadjieva",
+              "bowler": "SK Reddy",
+              "non_striker": "V Nikolova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "M Abadjieva",
+              "bowler": "SK Reddy",
+              "non_striker": "V Nikolova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "V Nikolova",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Nikolova",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "S Sarandeva",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "S Sarandeva",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "S Sarandeva",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Sarandeva",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "D Ruynekova",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "D Ruynekova",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "M Abadjieva",
+              "bowler": "SK Reddy",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "M Abadjieva",
+              "bowler": "SK Reddy",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "M Abadjieva",
+              "bowler": "SK Reddy",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "M Abadjieva",
+              "bowler": "SK Reddy",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Abadjieva",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "S Yordanova",
+              "bowler": "SK Reddy",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "S Yordanova",
+              "bowler": "SK Reddy",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "D Ruynekova",
+              "bowler": "AM Zepeda",
+              "non_striker": "S Yordanova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "D Ruynekova",
+              "bowler": "AM Zepeda",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Yordanova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "S Yordanova",
+              "bowler": "AM Zepeda",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "S Yordanova",
+              "bowler": "AM Zepeda",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "D Ruynekova",
+              "bowler": "AM Zepeda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Yordanova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "D Ruynekova",
+              "bowler": "AM Zepeda",
+              "non_striker": "S Yordanova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "D Ruynekova",
+              "bowler": "AM Zepeda",
+              "non_striker": "S Yordanova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "S Yordanova",
+              "bowler": "SK Reddy",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "S Yordanova",
+              "bowler": "SK Reddy",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "D Ruynekova",
+              "bowler": "SK Reddy",
+              "non_striker": "S Yordanova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "D Ruynekova",
+              "bowler": "SK Reddy",
+              "non_striker": "S Yordanova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "D Ruynekova",
+              "bowler": "SK Reddy",
+              "non_striker": "S Yordanova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "D Ruynekova",
+              "bowler": "SK Reddy",
+              "non_striker": "S Yordanova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "S Yordanova",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "S Yordanova",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "S Yordanova",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "S Yordanova",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Yordanova",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "G Ilarionova",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "G Ilarionova",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "G Ilarionova",
+              "bowler": "P Sabu",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "G Ilarionova",
+              "bowler": "P Sabu",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "G Ilarionova",
+              "bowler": "P Sabu",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "D Ruynekova",
+              "bowler": "P Sabu",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "D Ruynekova",
+              "bowler": "P Sabu",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "D Ruynekova",
+              "bowler": "P Sabu",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Ruynekova",
+                  "fielders": [
+                    {
+                      "name": "MPM Pathirannehelage"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "K Srandeva",
+              "bowler": "Ashi Chopla",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "K Srandeva",
+              "bowler": "Ashi Chopla",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "K Srandeva",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "byes": 1,
+                "noballs": 1
+              },
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "G Ilarionova",
+              "bowler": "Ashi Chopla",
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "G Ilarionova",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "G Ilarionova",
+              "bowler": "Ashi Chopla",
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "G Ilarionova",
+              "bowler": "Ashi Chopla",
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "G Ilarionova",
+              "bowler": "Ashi Chopla",
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "K Srandeva",
+              "bowler": "S Bhardwaj",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "K Srandeva",
+              "bowler": "S Bhardwaj",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "G Ilarionova",
+              "bowler": "S Bhardwaj",
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Ilarionova",
+                  "fielders": [
+                    {
+                      "name": "SK Reddy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "K Eftimova",
+              "bowler": "S Bhardwaj",
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "K Srandeva",
+              "bowler": "S Bhardwaj",
+              "non_striker": "K Eftimova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "K Eftimova",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "K Eftimova",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "K Eftimova",
+              "bowler": "S Bhardwaj",
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "K Eftimova",
+              "bowler": "Ashi Chopla",
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "K Eftimova",
+              "bowler": "Ashi Chopla",
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "K Eftimova",
+              "bowler": "Ashi Chopla",
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "K Eftimova",
+              "bowler": "Ashi Chopla",
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "K Srandeva",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Eftimova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "K Srandeva",
+              "bowler": "Ashi Chopla",
+              "non_striker": "K Eftimova",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "K Srandeva",
+              "bowler": "Ashi Chopla",
+              "non_striker": "K Eftimova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "K Eftimova",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.1",
+              "batter": "K Eftimova",
+              "bowler": "S Bhardwaj",
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Eftimova",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "N Tropolova",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "N Tropolova",
+              "bowler": "S Bhardwaj",
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "N Tropolova",
+              "bowler": "S Bhardwaj",
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Tropolova",
+                  "fielders": [
+                    {
+                      "name": "A Nookala"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Danaya Ilieva",
+              "bowler": "S Bhardwaj",
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Danaya Ilieva",
+              "bowler": "S Bhardwaj",
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Danaya Ilieva",
+              "bowler": "S Bhardwaj",
+              "non_striker": "K Srandeva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Austria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "P Sabu",
+              "bowler": "S Sarandeva",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "P Sabu",
+              "bowler": "S Sarandeva",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "P Sabu",
+              "bowler": "S Sarandeva",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "P Sabu",
+              "bowler": "S Sarandeva",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "AM Zepeda",
+              "bowler": "S Sarandeva",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "P Sabu",
+              "bowler": "S Sarandeva",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "P Sabu",
+              "bowler": "G Ilarionova",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "P Sabu",
+              "bowler": "G Ilarionova",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "P Sabu",
+              "bowler": "G Ilarionova",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "P Sabu",
+              "bowler": "G Ilarionova",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "P Sabu",
+              "bowler": "G Ilarionova",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "P Sabu",
+              "bowler": "G Ilarionova",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "AM Zepeda",
+              "bowler": "G Ilarionova",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "P Sabu",
+              "bowler": "K Srandeva",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "P Sabu",
+              "bowler": "K Srandeva",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "AM Zepeda",
+              "bowler": "K Srandeva",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "P Sabu",
+              "bowler": "K Srandeva",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "P Sabu",
+              "bowler": "K Srandeva",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "P Sabu",
+              "bowler": "K Srandeva",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "AM Zepeda",
+              "bowler": "Deya Stefanova",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "P Sabu",
+              "bowler": "Deya Stefanova",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "P Sabu",
+              "bowler": "Deya Stefanova",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "P Sabu",
+              "bowler": "Deya Stefanova",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "P Sabu",
+              "bowler": "Deya Stefanova",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "AM Zepeda",
+              "bowler": "Deya Stefanova",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "P Sabu",
+              "bowler": "Deya Stefanova",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "AM Zepeda",
+              "bowler": "G Ilarionova",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "P Sabu",
+              "bowler": "G Ilarionova",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "P Sabu",
+              "bowler": "G Ilarionova",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "P Sabu",
+              "bowler": "G Ilarionova",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "AM Zepeda",
+              "bowler": "G Ilarionova",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.5,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 12,
+        "runs": 37
+      }
+    }
+  ]
+}

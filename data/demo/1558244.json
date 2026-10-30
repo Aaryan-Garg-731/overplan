@@ -1,0 +1,2672 @@
+{
+  "meta": {
+    "data_version": "1.3.0",
+    "created": "2026-10-23",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Ilfov County",
+    "dates": [
+      "2026-10-15"
+    ],
+    "event": {
+      "name": "ECA Women's European Cup",
+      "match_number": 1
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 3032,
+    "officials": {
+      "match_referees": [
+        "K Sukesh Prudhvi"
+      ],
+      "umpires": [
+        "I Katzarski",
+        "Muhammad Zaka"
+      ]
+    },
+    "outcome": {
+      "winner": "Sweden",
+      "by": {
+        "wickets": 9
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "Malyun Yusuf"
+    ],
+    "players": {
+      "Austria": [
+        "P Sabu",
+        "Isha Joshi",
+        "S Bhardwaj",
+        "P Ganeshan",
+        "V Poglitsch",
+        "SK Reddy",
+        "AM Zepeda",
+        "A Nookala",
+        "MPM Pathirannehelage",
+        "Ashi Chopla",
+        "H Goyal"
+      ],
+      "Sweden": [
+        "A Vaidya",
+        "Adan Gul",
+        "Eman Asim",
+        "Zara Mohammad",
+        "Malyun Yusuf",
+        "H Shreya",
+        "H Chamto",
+        "Anoushka Vaidya",
+        "J Sasi Rekha",
+        "DB Chhetri",
+        "Kanchan Rana"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Nookala": "57922f7c",
+        "A Vaidya": "b7d8c07d",
+        "AM Zepeda": "c9f95a16",
+        "Adan Gul": "9aae2140",
+        "Anoushka Vaidya": "8eefeb60",
+        "Ashi Chopla": "89d6902b",
+        "DB Chhetri": "e383e204",
+        "Eman Asim": "fd8038e1",
+        "H Chamto": "5e181be6",
+        "H Goyal": "263ca355",
+        "H Shreya": "0e8f734c",
+        "I Katzarski": "514628bd",
+        "Isha Joshi": "f93bb0a4",
+        "J Sasi Rekha": "dce5f11d",
+        "K Sukesh Prudhvi": "e3415097",
+        "Kanchan Rana": "d5d87f3f",
+        "MPM Pathirannehelage": "0c142594",
+        "Malyun Yusuf": "436527cd",
+        "Muhammad Zaka": "fecf70b8",
+        "P Ganeshan": "3829c5ea",
+        "P Sabu": "a38da707",
+        "S Bhardwaj": "83e9173e",
+        "SK Reddy": "3e1fbf05",
+        "V Poglitsch": "e7351fbd",
+        "Zara Mohammad": "c9ca2bd7"
+      },
+      "venues": {
+        "Moara Vlasiei Cricket Ground, Ilfov County": "8d94c440"
+      }
+    },
+    "season": "2026/27",
+    "team_type": "international",
+    "teams": [
+      "Austria",
+      "Sweden"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Sweden"
+    },
+    "venue": "Moara Vlasiei Cricket Ground, Ilfov County"
+  },
+  "innings": [
+    {
+      "team": "Austria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "P Sabu",
+              "bowler": "Malyun Yusuf",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "P Sabu",
+              "bowler": "Malyun Yusuf",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "P Sabu",
+              "bowler": "Malyun Yusuf",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.1",
+              "batter": "P Sabu",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "P Sabu",
+              "bowler": "Malyun Yusuf",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "P Sabu",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "P Sabu",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "P Sabu",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "P Sabu",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Isha Joshi",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "P Sabu",
+              "bowler": "Anoushka Vaidya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.1",
+              "batter": "P Sabu",
+              "bowler": "Anoushka Vaidya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.1",
+              "batter": "P Sabu",
+              "bowler": "Anoushka Vaidya",
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "P Sabu",
+              "bowler": "Anoushka Vaidya",
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "P Sabu",
+              "bowler": "Anoushka Vaidya",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Isha Joshi",
+              "bowler": "Anoushka Vaidya",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Isha Joshi",
+              "bowler": "Anoushka Vaidya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Isha Joshi",
+              "bowler": "Anoushka Vaidya",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "P Sabu",
+              "bowler": "Anoushka Vaidya",
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Isha Joshi",
+              "bowler": "Anoushka Vaidya",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "P Sabu",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "P Sabu",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Sabu",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "S Bhardwaj",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "S Bhardwaj",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "S Bhardwaj",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Bhardwaj",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "P Ganeshan",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Isha Joshi",
+              "bowler": "Anoushka Vaidya",
+              "non_striker": "P Ganeshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Isha Joshi",
+              "bowler": "Anoushka Vaidya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Ganeshan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "Isha Joshi",
+              "bowler": "Anoushka Vaidya",
+              "non_striker": "P Ganeshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Isha Joshi",
+              "bowler": "Anoushka Vaidya",
+              "non_striker": "P Ganeshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Isha Joshi",
+              "bowler": "Anoushka Vaidya",
+              "non_striker": "P Ganeshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Isha Joshi",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "V Poglitsch",
+              "bowler": "Anoushka Vaidya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Ganeshan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "V Poglitsch",
+              "bowler": "Anoushka Vaidya",
+              "non_striker": "P Ganeshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "V Poglitsch",
+              "bowler": "Anoushka Vaidya",
+              "non_striker": "P Ganeshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "P Ganeshan",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "P Ganeshan",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "P Ganeshan",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "P Ganeshan",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "V Poglitsch",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "P Ganeshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "V Poglitsch",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "P Ganeshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "V Poglitsch",
+              "bowler": "H Chamto",
+              "non_striker": "P Ganeshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "V Poglitsch",
+              "bowler": "H Chamto",
+              "non_striker": "P Ganeshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "V Poglitsch",
+              "bowler": "H Chamto",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Ganeshan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "V Poglitsch",
+              "bowler": "H Chamto",
+              "non_striker": "P Ganeshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "V Poglitsch",
+              "bowler": "H Chamto",
+              "non_striker": "P Ganeshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "V Poglitsch",
+              "bowler": "H Chamto",
+              "non_striker": "P Ganeshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "V Poglitsch",
+              "bowler": "H Chamto",
+              "non_striker": "P Ganeshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "P Ganeshan",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "P Ganeshan",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "P Ganeshan",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Ganeshan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "SK Reddy",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "SK Reddy",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "SK Reddy",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "V Poglitsch",
+              "bowler": "H Chamto",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "V Poglitsch",
+              "bowler": "H Chamto",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "SK Reddy",
+              "bowler": "H Chamto",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "SK Reddy",
+              "bowler": "H Chamto",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "SK Reddy",
+              "bowler": "H Chamto",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "SK Reddy",
+              "bowler": "H Chamto",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "V Poglitsch",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "V Poglitsch",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "SK Reddy",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "V Poglitsch",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "SK Reddy",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "V Poglitsch",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "SK Reddy",
+              "bowler": "H Chamto",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.1",
+              "batter": "SK Reddy",
+              "bowler": "H Chamto",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SK Reddy",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "AM Zepeda",
+              "bowler": "H Chamto",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "V Poglitsch",
+              "bowler": "H Chamto",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "V Poglitsch",
+              "bowler": "H Chamto",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "AM Zepeda",
+              "bowler": "H Chamto",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "AM Zepeda",
+              "bowler": "H Chamto",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "AM Zepeda",
+              "bowler": "Adan Gul",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.1",
+              "batter": "AM Zepeda",
+              "bowler": "Adan Gul",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.1",
+              "batter": "AM Zepeda",
+              "bowler": "Adan Gul",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "AM Zepeda",
+              "bowler": "Adan Gul",
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "AM Zepeda",
+              "bowler": "Adan Gul",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "V Poglitsch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "V Poglitsch",
+              "bowler": "Adan Gul",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Poglitsch",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "A Nookala",
+              "bowler": "Adan Gul",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "A Nookala",
+              "bowler": "Adan Gul",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "A Nookala",
+              "bowler": "Adan Gul",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "AM Zepeda",
+              "bowler": "H Shreya",
+              "non_striker": "A Nookala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "AM Zepeda",
+              "bowler": "H Shreya",
+              "non_striker": "A Nookala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "AM Zepeda",
+              "bowler": "H Shreya",
+              "non_striker": "A Nookala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "A Nookala",
+              "bowler": "H Shreya",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "A Nookala",
+              "bowler": "H Shreya",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "A Nookala",
+              "bowler": "H Shreya",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "A Nookala",
+              "bowler": "Adan Gul",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "A Nookala",
+              "bowler": "Adan Gul",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "A Nookala",
+              "bowler": "Adan Gul",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "AM Zepeda",
+              "bowler": "Adan Gul",
+              "non_striker": "A Nookala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "AM Zepeda",
+              "bowler": "Adan Gul",
+              "non_striker": "A Nookala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "AM Zepeda",
+              "bowler": "Adan Gul",
+              "non_striker": "A Nookala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "A Nookala",
+              "bowler": "H Shreya",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "A Nookala",
+              "bowler": "H Shreya",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "A Nookala",
+              "bowler": "H Shreya",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "AM Zepeda",
+              "bowler": "H Shreya",
+              "non_striker": "A Nookala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "AM Zepeda",
+              "bowler": "H Shreya",
+              "non_striker": "A Nookala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "A Nookala",
+              "bowler": "H Shreya",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "AM Zepeda",
+              "bowler": "Adan Gul",
+              "non_striker": "A Nookala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "AM Zepeda",
+              "bowler": "Adan Gul",
+              "non_striker": "A Nookala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "AM Zepeda",
+              "bowler": "Adan Gul",
+              "non_striker": "A Nookala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "AM Zepeda",
+              "bowler": "Adan Gul",
+              "non_striker": "A Nookala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "AM Zepeda",
+              "bowler": "Adan Gul",
+              "non_striker": "A Nookala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "AM Zepeda",
+              "bowler": "Adan Gul",
+              "non_striker": "A Nookala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "AM Zepeda",
+              "bowler": "H Shreya",
+              "non_striker": "A Nookala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "A Nookala",
+              "bowler": "H Shreya",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Nookala",
+                  "fielders": [
+                    {
+                      "name": "Eman Asim"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "MPM Pathirannehelage",
+              "bowler": "H Shreya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "MPM Pathirannehelage",
+              "bowler": "H Shreya",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "MPM Pathirannehelage",
+              "bowler": "H Shreya",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "MPM Pathirannehelage",
+              "bowler": "H Shreya",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "MPM Pathirannehelage",
+              "bowler": "H Shreya",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "AM Zepeda",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "MPM Pathirannehelage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "MPM Pathirannehelage",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "MPM Pathirannehelage",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "AM Zepeda",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "MPM Pathirannehelage",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "AM Zepeda",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "MPM Pathirannehelage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "MPM Pathirannehelage",
+              "bowler": "J Sasi Rekha",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "AM Zepeda",
+              "bowler": "H Shreya",
+              "non_striker": "MPM Pathirannehelage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "MPM Pathirannehelage",
+              "bowler": "H Shreya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "MPM Pathirannehelage",
+              "bowler": "H Shreya",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "MPM Pathirannehelage",
+              "bowler": "H Shreya",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MPM Pathirannehelage",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "Ashi Chopla",
+              "bowler": "H Shreya",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Ashi Chopla",
+              "bowler": "H Shreya",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Ashi Chopla",
+              "bowler": "H Shreya",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "AM Zepeda",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Ashi Chopla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "AM Zepeda",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Ashi Chopla",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "Ashi Chopla",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "AM Zepeda",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Ashi Chopla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "AM Zepeda",
+              "bowler": "Malyun Yusuf",
+              "non_striker": "Ashi Chopla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Ashi Chopla",
+              "bowler": "Malyun Yusuf",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "AM Zepeda",
+              "bowler": "H Chamto",
+              "non_striker": "Ashi Chopla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "AM Zepeda",
+              "bowler": "H Chamto",
+              "non_striker": "Ashi Chopla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Ashi Chopla",
+              "bowler": "H Chamto",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "AM Zepeda",
+              "bowler": "H Chamto",
+              "non_striker": "Ashi Chopla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "AM Zepeda",
+              "bowler": "H Chamto",
+              "non_striker": "Ashi Chopla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AM Zepeda",
+                  "fielders": [
+                    {
+                      "name": "A Vaidya"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "H Goyal",
+              "bowler": "H Chamto",
+              "non_striker": "Ashi Chopla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sweden",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "A Vaidya",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Adan Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "A Vaidya",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Adan Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "A Vaidya",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Adan Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "A Vaidya",
+              "bowler": "MPM Pathirannehelage",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Adan Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Adan Gul",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "A Vaidya",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "Adan Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Adan Gul",
+              "bowler": "SK Reddy",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "A Vaidya",
+              "bowler": "SK Reddy",
+              "non_striker": "Adan Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "A Vaidya",
+              "bowler": "SK Reddy",
+              "non_striker": "Adan Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "A Vaidya",
+              "bowler": "SK Reddy",
+              "non_striker": "Adan Gul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "A Vaidya",
+              "bowler": "SK Reddy",
+              "non_striker": "Adan Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Adan Gul",
+              "bowler": "SK Reddy",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Adan Gul",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Adan Gul",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Adan Gul",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Adan Gul",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Adan Gul",
+              "bowler": "MPM Pathirannehelage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Adan Gul",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Adan Gul",
+                  "fielders": [
+                    {
+                      "name": "SK Reddy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Eman Asim",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "A Vaidya",
+              "bowler": "SK Reddy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "A Vaidya",
+              "bowler": "SK Reddy",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "A Vaidya",
+              "bowler": "SK Reddy",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "Eman Asim",
+              "bowler": "SK Reddy",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "Eman Asim",
+              "bowler": "SK Reddy",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "A Vaidya",
+              "bowler": "SK Reddy",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "A Vaidya",
+              "bowler": "SK Reddy",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "A Vaidya",
+              "bowler": "AM Zepeda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.1",
+              "batter": "A Vaidya",
+              "bowler": "AM Zepeda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.1",
+              "batter": "A Vaidya",
+              "bowler": "AM Zepeda",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "A Vaidya",
+              "bowler": "AM Zepeda",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Eman Asim",
+              "bowler": "AM Zepeda",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "A Vaidya",
+              "bowler": "AM Zepeda",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "A Vaidya",
+              "bowler": "AM Zepeda",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Eman Asim",
+              "bowler": "AM Zepeda",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "A Vaidya",
+              "bowler": "SK Reddy",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "A Vaidya",
+              "bowler": "SK Reddy",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Eman Asim",
+              "bowler": "SK Reddy",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Eman Asim",
+              "bowler": "SK Reddy",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "A Vaidya",
+              "bowler": "SK Reddy",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "A Vaidya",
+              "bowler": "SK Reddy",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "A Vaidya",
+              "bowler": "AM Zepeda",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "A Vaidya",
+              "bowler": "AM Zepeda",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "A Vaidya",
+              "bowler": "AM Zepeda",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Eman Asim",
+              "bowler": "AM Zepeda",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Eman Asim",
+              "bowler": "AM Zepeda",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Eman Asim",
+              "bowler": "AM Zepeda",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "A Vaidya",
+              "bowler": "P Sabu",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "A Vaidya",
+              "bowler": "P Sabu",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Eman Asim",
+              "bowler": "P Sabu",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "Eman Asim",
+              "bowler": "P Sabu",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "Eman Asim",
+              "bowler": "P Sabu",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "A Vaidya",
+              "bowler": "P Sabu",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Eman Asim",
+              "bowler": "S Bhardwaj",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "A Vaidya",
+              "bowler": "S Bhardwaj",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Eman Asim",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Eman Asim",
+              "bowler": "S Bhardwaj",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "A Vaidya",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "A Vaidya",
+              "bowler": "S Bhardwaj",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "A Vaidya",
+              "bowler": "S Bhardwaj",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "A Vaidya",
+              "bowler": "S Bhardwaj",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Eman Asim",
+              "bowler": "AM Zepeda",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.1",
+              "batter": "A Vaidya",
+              "bowler": "AM Zepeda",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "A Vaidya",
+              "bowler": "AM Zepeda",
+              "non_striker": "Eman Asim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "Eman Asim",
+              "bowler": "AM Zepeda",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "Eman Asim",
+              "bowler": "AM Zepeda",
+              "non_striker": "A Vaidya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 92
+      }
+    }
+  ]
+}

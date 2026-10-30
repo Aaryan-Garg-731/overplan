@@ -1,0 +1,3012 @@
+{
+  "meta": {
+    "data_version": "1.3.0",
+    "created": "2026-10-25",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Ilfov County",
+    "dates": [
+      "2026-10-17"
+    ],
+    "event": {
+      "name": "ECA Women's European Cup",
+      "match_number": 5
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 3037,
+    "officials": {
+      "match_referees": [
+        "K Sukesh Prudhvi"
+      ],
+      "umpires": [
+        "I Katzarski",
+        "Venkat Gorrela"
+      ]
+    },
+    "outcome": {
+      "winner": "Austria",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "SK Reddy"
+    ],
+    "players": {
+      "Romania": [
+        "I Muntean",
+        "D Tanase",
+        "G Ionita",
+        "N Kuruppu",
+        "HM Bandara",
+        "A Lupascu",
+        "C Cirlig",
+        "S Batorii",
+        "M Marin",
+        "S Slavaston",
+        "D Brinzea"
+      ],
+      "Austria": [
+        "P Sabu",
+        "Isha Joshi",
+        "S Bhardwaj",
+        "AM Zepeda",
+        "SK Reddy",
+        "V Poglitsch",
+        "Ashi Chopla",
+        "A Nookala",
+        "MPM Pathirannehelage",
+        "Florence Hira",
+        "H Goyal"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Lupascu": "66f819df",
+        "A Nookala": "57922f7c",
+        "AM Zepeda": "c9f95a16",
+        "Ashi Chopla": "89d6902b",
+        "C Cirlig": "9cfee623",
+        "D Brinzea": "370795cb",
+        "D Tanase": "3e377209",
+        "Florence Hira": "2ceca8d3",
+        "G Ionita": "c5c308b7",
+        "H Goyal": "263ca355",
+        "HM Bandara": "b88a24ba",
+        "I Katzarski": "514628bd",
+        "I Muntean": "9b88f80e",
+        "Isha Joshi": "f93bb0a4",
+        "K Sukesh Prudhvi": "e3415097",
+        "M Marin": "2feef01b",
+        "MPM Pathirannehelage": "0c142594",
+        "N Kuruppu": "bacbc4ee",
+        "P Sabu": "a38da707",
+        "S Batorii": "f643f3a5",
+        "S Bhardwaj": "83e9173e",
+        "S Slavaston": "eeac4d49",
+        "SK Reddy": "3e1fbf05",
+        "V Poglitsch": "e7351fbd",
+        "Venkat Gorrela": "bf108fa3"
+      },
+      "venues": {
+        "Moara Vlasiei Cricket Ground, Ilfov County": "8d94c440"
+      }
+    },
+    "season": "2026/27",
+    "team_type": "international",
+    "teams": [
+      "Romania",
+      "Austria"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Austria"
+    },
+    "venue": "Moara Vlasiei Cricket Ground, Ilfov County"
+  },
+  "innings": [
+    {
+      "team": "Romania",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "I Muntean",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "D Tanase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "I Muntean",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "D Tanase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "D Tanase",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "I Muntean",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "D Tanase",
+              "bowler": "MPM Pathirannehelage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "I Muntean",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "D Tanase",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "I Muntean",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "I Muntean",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "D Tanase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "I Muntean",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "D Tanase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Tanase",
+                  "fielders": [
+                    {
+                      "name": "AM Zepeda"
+                    },
+                    {
+                      "name": "A Nookala"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "I Muntean",
+              "bowler": "SK Reddy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.1",
+              "batter": "I Muntean",
+              "bowler": "SK Reddy",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "I Muntean",
+              "bowler": "SK Reddy",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "I Muntean",
+              "bowler": "SK Reddy",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "I Muntean",
+              "bowler": "SK Reddy",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Muntean",
+                  "fielders": [
+                    {
+                      "name": "A Nookala"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "N Kuruppu",
+              "bowler": "SK Reddy",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "N Kuruppu",
+              "bowler": "SK Reddy",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "G Ionita",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "N Kuruppu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "G Ionita",
+              "bowler": "MPM Pathirannehelage",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "N Kuruppu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "N Kuruppu",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "N Kuruppu",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "N Kuruppu",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "N Kuruppu",
+              "bowler": "MPM Pathirannehelage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "N Kuruppu",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Kuruppu",
+                  "fielders": [
+                    {
+                      "name": "A Nookala"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "G Ionita",
+              "bowler": "SK Reddy",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "G Ionita",
+              "bowler": "SK Reddy",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "G Ionita",
+              "bowler": "SK Reddy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "G Ionita",
+              "bowler": "SK Reddy",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "G Ionita",
+              "bowler": "SK Reddy",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "G Ionita",
+              "bowler": "SK Reddy",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "G Ionita",
+              "bowler": "SK Reddy",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "HM Bandara",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.1",
+              "batter": "HM Bandara",
+              "bowler": "P Sabu",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "HM Bandara",
+              "bowler": "P Sabu",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "HM Bandara",
+              "bowler": "P Sabu",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "HM Bandara",
+              "bowler": "P Sabu",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "HM Bandara",
+              "bowler": "P Sabu",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "HM Bandara",
+              "bowler": "P Sabu",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "G Ionita",
+              "bowler": "AM Zepeda",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "G Ionita",
+              "bowler": "AM Zepeda",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "G Ionita",
+              "bowler": "AM Zepeda",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "G Ionita",
+              "bowler": "AM Zepeda",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "G Ionita",
+              "bowler": "AM Zepeda",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "G Ionita",
+              "bowler": "AM Zepeda",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "HM Bandara",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "HM Bandara",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.1",
+              "batter": "HM Bandara",
+              "bowler": "P Sabu",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "HM Bandara",
+              "bowler": "P Sabu",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "HM Bandara",
+              "bowler": "P Sabu",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "HM Bandara",
+              "bowler": "P Sabu",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "G Ionita",
+              "bowler": "P Sabu",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "G Ionita",
+              "bowler": "P Sabu",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "HM Bandara",
+              "bowler": "AM Zepeda",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "HM Bandara",
+              "bowler": "AM Zepeda",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "HM Bandara",
+              "bowler": "AM Zepeda",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "HM Bandara",
+              "bowler": "AM Zepeda",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "HM Bandara",
+              "bowler": "AM Zepeda",
+              "non_striker": "G Ionita",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "G Ionita",
+              "bowler": "AM Zepeda",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Ionita",
+                  "fielders": [
+                    {
+                      "name": "P Sabu"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "A Lupascu",
+              "bowler": "AM Zepeda",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "HM Bandara",
+              "bowler": "Ashi Chopla",
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "HM Bandara",
+              "bowler": "Ashi Chopla",
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "HM Bandara",
+              "bowler": "Ashi Chopla",
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "HM Bandara",
+              "bowler": "Ashi Chopla",
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "HM Bandara",
+              "bowler": "Ashi Chopla",
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "HM Bandara",
+              "bowler": "Ashi Chopla",
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "A Lupascu",
+              "bowler": "S Bhardwaj",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "A Lupascu",
+              "bowler": "S Bhardwaj",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "A Lupascu",
+              "bowler": "S Bhardwaj",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "A Lupascu",
+              "bowler": "S Bhardwaj",
+              "non_striker": "HM Bandara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "HM Bandara",
+              "bowler": "S Bhardwaj",
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HM Bandara",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "C Cirlig",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "C Cirlig",
+              "bowler": "S Bhardwaj",
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "A Lupascu",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.1",
+              "batter": "A Lupascu",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "C Cirlig",
+              "bowler": "Ashi Chopla",
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "C Cirlig",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "C Cirlig",
+              "bowler": "Ashi Chopla",
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "C Cirlig",
+              "bowler": "Ashi Chopla",
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "C Cirlig",
+              "bowler": "Ashi Chopla",
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "C Cirlig",
+              "bowler": "Ashi Chopla",
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "A Lupascu",
+              "bowler": "S Bhardwaj",
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "A Lupascu",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "C Cirlig",
+              "bowler": "S Bhardwaj",
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "C Cirlig",
+              "bowler": "S Bhardwaj",
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "C Cirlig",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "C Cirlig",
+              "bowler": "S Bhardwaj",
+              "non_striker": "A Lupascu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "A Lupascu",
+              "bowler": "S Bhardwaj",
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "A Lupascu",
+              "bowler": "S Bhardwaj",
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Lupascu",
+                  "fielders": [
+                    {
+                      "name": "V Poglitsch"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "C Cirlig",
+              "bowler": "Ashi Chopla",
+              "non_striker": "S Batorii",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "C Cirlig",
+              "bowler": "Ashi Chopla",
+              "non_striker": "S Batorii",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "C Cirlig",
+              "bowler": "Ashi Chopla",
+              "non_striker": "S Batorii",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "C Cirlig",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "S Batorii",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "S Batorii",
+              "bowler": "Ashi Chopla",
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "S Batorii",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "S Batorii",
+              "bowler": "Ashi Chopla",
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "S Batorii",
+              "bowler": "Ashi Chopla",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "S Batorii",
+              "bowler": "Ashi Chopla",
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "C Cirlig",
+              "bowler": "AM Zepeda",
+              "non_striker": "S Batorii",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "C Cirlig",
+              "bowler": "AM Zepeda",
+              "non_striker": "S Batorii",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "S Batorii",
+              "bowler": "AM Zepeda",
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "C Cirlig",
+              "bowler": "AM Zepeda",
+              "non_striker": "S Batorii",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "C Cirlig",
+              "bowler": "AM Zepeda",
+              "non_striker": "S Batorii",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "C Cirlig",
+              "bowler": "AM Zepeda",
+              "non_striker": "S Batorii",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "S Batorii",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "S Batorii",
+              "bowler": "MPM Pathirannehelage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "S Batorii",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "S Batorii",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Batorii",
+                  "fielders": [
+                    {
+                      "name": "SK Reddy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "M Marin",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "M Marin",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "M Marin",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "C Cirlig",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "C Cirlig",
+              "bowler": "P Sabu",
+              "non_striker": "M Marin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Cirlig",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "S Slavaston",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Marin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "S Slavaston",
+              "bowler": "P Sabu",
+              "non_striker": "M Marin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Slavaston",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "D Brinzea",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "M Marin",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "M Marin",
+              "bowler": "P Sabu",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "M Marin",
+              "bowler": "P Sabu",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "M Marin",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "M Marin",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "M Marin",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "M Marin",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "M Marin",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "M Marin",
+              "bowler": "P Sabu",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "M Marin",
+              "bowler": "P Sabu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "M Marin",
+              "bowler": "P Sabu",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "M Marin",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "M Marin",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "M Marin",
+              "bowler": "MPM Pathirannehelage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "M Marin",
+              "bowler": "MPM Pathirannehelage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "M Marin",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "M Marin",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "M Marin",
+              "bowler": "MPM Pathirannehelage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "M Marin",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "M Marin",
+              "bowler": "MPM Pathirannehelage",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "D Brinzea",
+              "bowler": "SK Reddy",
+              "non_striker": "M Marin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "D Brinzea",
+              "bowler": "SK Reddy",
+              "non_striker": "M Marin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "D Brinzea",
+              "bowler": "SK Reddy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Marin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "D Brinzea",
+              "bowler": "SK Reddy",
+              "non_striker": "M Marin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "D Brinzea",
+              "bowler": "SK Reddy",
+              "non_striker": "M Marin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "D Brinzea",
+              "bowler": "SK Reddy",
+              "non_striker": "M Marin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "M Marin",
+              "bowler": "SK Reddy",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "D Brinzea",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Marin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.1",
+              "batter": "D Brinzea",
+              "bowler": "S Bhardwaj",
+              "non_striker": "M Marin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "M Marin",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "M Marin",
+              "bowler": "S Bhardwaj",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "M Marin",
+              "bowler": "S Bhardwaj",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "M Marin",
+              "bowler": "S Bhardwaj",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "M Marin",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "M Marin",
+              "bowler": "S Bhardwaj",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "M Marin",
+              "bowler": "S Bhardwaj",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "M Marin",
+              "bowler": "S Bhardwaj",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "M Marin",
+              "bowler": "SK Reddy",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "M Marin",
+              "bowler": "SK Reddy",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "M Marin",
+              "bowler": "SK Reddy",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "M Marin",
+              "bowler": "SK Reddy",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "M Marin",
+              "bowler": "SK Reddy",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "M Marin",
+              "bowler": "SK Reddy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "M Marin",
+              "bowler": "SK Reddy",
+              "non_striker": "D Brinzea",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Austria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "P Sabu",
+              "bowler": "I Muntean",
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "P Sabu",
+              "bowler": "I Muntean",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "P Sabu",
+              "bowler": "I Muntean",
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "P Sabu",
+              "bowler": "I Muntean",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Isha Joshi",
+              "bowler": "I Muntean",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "P Sabu",
+              "bowler": "I Muntean",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "P Sabu",
+              "bowler": "I Muntean",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "P Sabu",
+              "bowler": "I Muntean",
+              "non_striker": "Isha Joshi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Isha Joshi",
+                  "fielders": [
+                    {
+                      "name": "N Kuruppu"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "P Sabu",
+              "bowler": "D Tanase",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "P Sabu",
+              "bowler": "D Tanase",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "P Sabu",
+              "bowler": "D Tanase",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "S Bhardwaj",
+              "bowler": "D Tanase",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "S Bhardwaj",
+              "bowler": "D Tanase",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "P Sabu",
+              "bowler": "D Tanase",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "S Bhardwaj",
+              "bowler": "I Muntean",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "S Bhardwaj",
+              "bowler": "I Muntean",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "P Sabu",
+              "bowler": "I Muntean",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "P Sabu",
+              "bowler": "I Muntean",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "S Bhardwaj",
+              "bowler": "I Muntean",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "P Sabu",
+              "bowler": "I Muntean",
+              "non_striker": "S Bhardwaj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "S Bhardwaj",
+              "bowler": "D Tanase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "S Bhardwaj",
+              "bowler": "D Tanase",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "S Bhardwaj",
+              "bowler": "D Tanase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "S Bhardwaj",
+              "bowler": "D Tanase",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Bhardwaj",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "AM Zepeda",
+              "bowler": "D Tanase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "AM Zepeda",
+              "bowler": "D Tanase",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "AM Zepeda",
+              "bowler": "D Tanase",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "P Sabu",
+              "bowler": "D Tanase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "P Sabu",
+              "bowler": "D Tanase",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "P Sabu",
+              "bowler": "D Tanase",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "AM Zepeda",
+              "bowler": "HM Bandara",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "AM Zepeda",
+              "bowler": "HM Bandara",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "AM Zepeda",
+              "bowler": "HM Bandara",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "P Sabu",
+              "bowler": "HM Bandara",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "P Sabu",
+              "bowler": "HM Bandara",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "P Sabu",
+              "bowler": "HM Bandara",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "AM Zepeda",
+              "bowler": "C Cirlig",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "AM Zepeda",
+              "bowler": "C Cirlig",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "AM Zepeda",
+              "bowler": "C Cirlig",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "AM Zepeda",
+              "bowler": "C Cirlig",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "P Sabu",
+              "bowler": "C Cirlig",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "P Sabu",
+              "bowler": "C Cirlig",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "AM Zepeda",
+              "bowler": "HM Bandara",
+              "non_striker": "P Sabu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "P Sabu",
+              "bowler": "HM Bandara",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Sabu",
+                  "fielders": [
+                    {
+                      "name": "N Kuruppu"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "SK Reddy",
+              "bowler": "HM Bandara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "SK Reddy",
+              "bowler": "HM Bandara",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "SK Reddy",
+              "bowler": "HM Bandara",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "SK Reddy",
+              "bowler": "HM Bandara",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "AM Zepeda",
+              "bowler": "HM Bandara",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "SK Reddy",
+              "bowler": "A Lupascu",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "SK Reddy",
+              "bowler": "A Lupascu",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "AM Zepeda",
+              "bowler": "A Lupascu",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "AM Zepeda",
+              "bowler": "A Lupascu",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "SK Reddy",
+              "bowler": "A Lupascu",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "AM Zepeda",
+              "bowler": "A Lupascu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "AM Zepeda",
+              "bowler": "A Lupascu",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "AM Zepeda",
+              "bowler": "G Ionita",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "AM Zepeda",
+              "bowler": "G Ionita",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "SK Reddy",
+              "bowler": "G Ionita",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "SK Reddy",
+              "bowler": "G Ionita",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "SK Reddy",
+              "bowler": "G Ionita",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "SK Reddy",
+              "bowler": "G Ionita",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "AM Zepeda",
+              "bowler": "G Ionita",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "SK Reddy",
+              "bowler": "D Tanase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.1",
+              "batter": "SK Reddy",
+              "bowler": "D Tanase",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "SK Reddy",
+              "bowler": "D Tanase",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "AM Zepeda",
+              "bowler": "D Tanase",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "AM Zepeda",
+              "bowler": "D Tanase",
+              "non_striker": "SK Reddy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "SK Reddy",
+              "bowler": "D Tanase",
+              "non_striker": "AM Zepeda",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 67
+      }
+    }
+  ]
+}

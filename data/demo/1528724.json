@@ -1,0 +1,349 @@
+{
+  "meta": {
+    "data_version": "1.3.0",
+    "created": "2026-10-25",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Sydney",
+    "dates": [
+      "2026-10-22"
+    ],
+    "event": {
+      "name": "New Zealand Women tour of Australia",
+      "match_number": 3
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 3045,
+    "officials": {
+      "match_referees": [
+        "Kent Hannam"
+      ],
+      "reserve_umpires": [
+        "CA Polosak"
+      ],
+      "tv_umpires": [
+        "Ashlee Gibbons"
+      ],
+      "umpires": [
+        "Eloise Sheridan",
+        "Lauren Agenbag"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 20,
+    "players": {
+      "New Zealand": [
+        "GE Plimmer",
+        "AC Kerr",
+        "IG Sharp",
+        "FDM Devonshire",
+        "ML Green",
+        "BM Halliday",
+        "JM Kerr",
+        "PM Inglis",
+        "RA Mair",
+        "NH Patel",
+        "BG Illing"
+      ],
+      "Australia": [
+        "BL Mooney",
+        "G Voll",
+        "P Litchfield",
+        "EA Perry",
+        "A Gardner",
+        "G Wareham",
+        "A Sutherland",
+        "NJ Carey",
+        "S Molineux",
+        "KJ Garth",
+        "LK Hamilton"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Gardner": "bc969efb",
+        "A Sutherland": "65d9b6b6",
+        "AC Kerr": "7673c908",
+        "Ashlee Gibbons": "b81712f7",
+        "BG Illing": "80a0cd77",
+        "BL Mooney": "52d1dbc8",
+        "BM Halliday": "efb6cb2a",
+        "CA Polosak": "26a360d2",
+        "EA Perry": "be150fc8",
+        "Eloise Sheridan": "d8d43840",
+        "FDM Devonshire": "c8b0b64c",
+        "G Voll": "5c30d455",
+        "G Wareham": "f0b4e47d",
+        "GE Plimmer": "575494db",
+        "IG Sharp": "4de0779a",
+        "JM Kerr": "9af58032",
+        "KJ Garth": "0b69a844",
+        "Kent Hannam": "8cc171e7",
+        "LK Hamilton": "c347ffe6",
+        "Lauren Agenbag": "40849abd",
+        "ML Green": "865eae1f",
+        "NH Patel": "d945db3e",
+        "NJ Carey": "dff806f4",
+        "P Litchfield": "4e6ef14f",
+        "PM Inglis": "e4a71d18",
+        "RA Mair": "d5eb8b84",
+        "S Molineux": "99e23670"
+      },
+      "venues": {
+        "North Sydney Oval": "c15bc827"
+      }
+    },
+    "season": "2026/27",
+    "team_type": "international",
+    "teams": [
+      "New Zealand",
+      "Australia"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Australia"
+    },
+    "venue": "North Sydney Oval"
+  },
+  "innings": [
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "GE Plimmer",
+              "bowler": "KJ Garth",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "GE Plimmer",
+              "bowler": "KJ Garth",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "GE Plimmer",
+              "bowler": "KJ Garth",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "GE Plimmer",
+              "bowler": "KJ Garth",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "GE Plimmer",
+              "bowler": "KJ Garth",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "GE Plimmer",
+              "bowler": "KJ Garth",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "GE Plimmer",
+              "bowler": "S Molineux",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "GE Plimmer",
+              "bowler": "S Molineux",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "AC Kerr",
+              "bowler": "S Molineux",
+              "non_striker": "GE Plimmer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "AC Kerr",
+              "bowler": "S Molineux",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GE Plimmer",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "AC Kerr",
+              "bowler": "S Molineux",
+              "non_striker": "GE Plimmer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AC Kerr",
+                  "fielders": [
+                    {
+                      "name": "A Sutherland"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "IG Sharp",
+              "bowler": "S Molineux",
+              "non_striker": "GE Plimmer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "IG Sharp",
+              "bowler": "S Molineux",
+              "non_striker": "GE Plimmer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "GE Plimmer",
+              "bowler": "KJ Garth",
+              "non_striker": "IG Sharp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "GE Plimmer",
+              "bowler": "KJ Garth",
+              "non_striker": "IG Sharp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "GE Plimmer",
+              "bowler": "KJ Garth",
+              "non_striker": "IG Sharp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "GE Plimmer",
+              "bowler": "KJ Garth",
+              "non_striker": "IG Sharp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GE Plimmer",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 4.1,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}
